@@ -1,6 +1,3 @@
-print("enter the number for which you want to find the factorial of it")
-n=int(input())
-fact=1
-for i in range(1,n+1):
-    fact=fcat*i
-print("The factorial for the entred entry is : ",fact)
+Focused on Data Structures & Algorithms and Full Stack Web Development. Skilled in React.js, Next.js, TypeScript, Node.js, JavaScript, and Java. Active problem solver on LeetCode and GeeksforGeeks with consistent focus on improving coding and logical thinking skills.
+
+Currently building real-world full stack projects and learning Web3 & DevOps to strengthen development skills. Interested in solving challenging problems, building scalable applications, and continuously learning new technologies.
